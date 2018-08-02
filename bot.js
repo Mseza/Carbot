@@ -25,4 +25,4 @@ bot.on('ready', () => {
     console.log("ready");
 });
 
-bot.login("NDc0MjE0NTUwODcxMjEyMDM1.DkNO2g.3glIS73ZDlbh6HWu-Xrktdq_RRM")
+bot.login("process.env.BOT_TOKEN")
